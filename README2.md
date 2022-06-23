@@ -22,14 +22,14 @@ npm run dev
 - API対応確認 axiosでjsonplaceholder使えるか【使えた！済】あとはバンドルしてからの挙動
 
 ## 次回
-・諸々エラーが起こる問題
+・諸々エラーが起こる問題【済】
 @typesを諸々追加
-・一覧のブラッシュアップ
+・一覧のブラッシュアップ【済】
 ・プレビュー作成
 preview-templates
-・api出力後はどうなっているか
 ・apiの情報をmdに入れるには
-・取得したapi情報をgraphQLに格納できるのか
+・axiosで取得したデータがhtmlに埋め込まれない、キャッシュは可能か
+・取得したapi情報をgraphQLに格納できるのか【調査中】
 https://reffect.co.jp/html/graphql
 
 ## blog以外にcontentsを追加するには
