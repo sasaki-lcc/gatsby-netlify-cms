@@ -5,21 +5,27 @@ https://linc-well.com/
 ## 起動
 cd project-name
 最初のみ　yarn
-gatsby develop
+npm run dev
 
 ## ToDo
 - 英語版の仮想URLの作成【済】
-- ページ構成の把握
-- 投資情報の投稿機能を追加
+- ページ構成の把握【済】
+- 投資情報の投稿機能を追加【済】
 - styledcomponent導入【済】
 - importの候補や閉じタグ補完が効かない問題
-- typeScript対応
+- typeScript対応【済】
 - storyboadr対応
 - NextCMSの環境作成【済】
 - NextCMSのログイン【済】
-- GraphQL再確認
+- GraphQL再確認【済】
 - Jest再確認
-- API対応確認
+- API対応確認 axiosでjsonplaceholder使えるか【使えた！済】あとはバンドルしてからの挙動
+
+## 次回
+一覧のブラッシュアップ
+api出力後はどうなっているか
+apiの情報をmdに入れるには
+取得したapi情報をgraphQLに格納できるのか
 
 ## blog以外にcontentsを追加するには
 demo/gatsby-netlify-cms/static/admin/config.yml
