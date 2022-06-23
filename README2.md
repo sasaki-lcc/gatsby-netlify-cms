@@ -22,10 +22,15 @@ npm run dev
 - API対応確認 axiosでjsonplaceholder使えるか【使えた！済】あとはバンドルしてからの挙動
 
 ## 次回
-一覧のブラッシュアップ
-api出力後はどうなっているか
-apiの情報をmdに入れるには
-取得したapi情報をgraphQLに格納できるのか
+・諸々エラーが起こる問題
+@typesを諸々追加
+・一覧のブラッシュアップ
+・プレビュー作成
+preview-templates
+・api出力後はどうなっているか
+・apiの情報をmdに入れるには
+・取得したapi情報をgraphQLに格納できるのか
+https://reffect.co.jp/html/graphql
 
 ## blog以外にcontentsを追加するには
 demo/gatsby-netlify-cms/static/admin/config.yml
